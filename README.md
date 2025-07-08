@@ -19,7 +19,9 @@
 - dashboard/: Includes Tableau workbook and assets for the interactive price & location analytics dashboard
 
 ## 🧠 Model Performance
-- Accuracy: ~X%
+- Accuracy: R² Score: 0.960
+Mean Absolute Error (MAE): ₹5.06 Lakhs
+Root Mean Squared Error (RMSE): ₹10.13 Lakhs
 - SHAP Insights: Key drivers include location, area, BHK, room density
 
 ## 🎯 Use Case
@@ -27,4 +29,4 @@ Helps homebuyers, investors, and real estate analysts understand pricing trends 
 
 ---
 
-📌 *Made with ❤️ by Jyotiraditya Jadhav*
+📌 *Made by Jyotiraditya Jadhav*
