@@ -16,7 +16,7 @@
 ## 📁 Files
 - `propvista_real_estate_dashboard.ipynb`: Full notebook with training + app
 - `data/`: Contains cleaned and engineered datasets
-- 'dashboard': Contains the Tablue Dashboard
+- 'dashboard/': Includes Tableau workbook and assets for the interactive price & location analytics dashboard
 
 ## 🧠 Model Performance
 - Accuracy: ~X%
